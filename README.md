@@ -13,7 +13,7 @@
 
 ## Run
 
-1. create folder in host directory `docker-data` and `ubuntu home`
+1. create folder in host directory `docker-data` and `ubuntu-home`
 2. create and mount `daemon.json` for custom docker config (optional)
 3. run `docker-compose up -d` 
 
